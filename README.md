@@ -1,2 +1,2 @@
-# aegisub-automation-acripts
-Deltkastel's Aegisub Automation Scripts
+# Deltkastel's Aegisub Automation Scripts
+## copy-dialogue.lua
