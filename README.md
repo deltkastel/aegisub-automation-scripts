@@ -1,3 +1,3 @@
 # Deltkastel's Aegisub Automation Scripts
-## copy-dialogue.lua
+## Copy Dialogue
 Copies the selected lines to the clipboard.
