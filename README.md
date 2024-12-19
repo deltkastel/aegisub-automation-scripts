@@ -1,3 +1,3 @@
 # Deltkastel's Aegisub Automation Scripts
-## Copy Dialogue
+## Copy dialogue
 Copies the selected lines to the clipboard.
